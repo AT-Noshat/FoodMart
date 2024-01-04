@@ -1,8 +1,34 @@
-h1 {
+header{
     text-align: center;
-    background-color: aqua;
 }
-h3{
-   text-align: center;
-   background-color: aquamarine;
+body{
+
+    
+    
+}
+section > form > label > input {
+    display: block;
+    margin-bottom: 10px;
+}
+fieldset > input{
+    display: inline;
+    margin-right: 10px;
+    
+}
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
+textarea{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+label{
+    margin-top: 10px;
+}
+img{
+    margin-bottom: 5px;
+    display: block;
+    width: 300px;
 }
